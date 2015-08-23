@@ -12,6 +12,7 @@
         <module>nio.base</module>
         <module>nio.prj</module>
         <module>nio.utils</module>
+        <module>nio.socket</module>
     </modules>
 
     <dependencies>
